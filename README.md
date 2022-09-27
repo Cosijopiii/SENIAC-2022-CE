@@ -8,5 +8,5 @@ pip install deap
 
 ## Install pymoo framework
 ```
-pip install pymoo==0.5.0
+pip install pymoo
 ```
